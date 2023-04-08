@@ -1,6 +1,9 @@
 const API_KEY = 'AIzaSyDhb6__L4fpD5lkYLHIJ3kT2ZCwzKCNx_A';
 
-
+const searchInput = document.querySelector('.search-inpu');
+const searchBtn = document.querySelector('button');
+const resultsDiv = document.getElementById('results');
+const bookDetailsDiv = document.getElementById('book-details');
 async function getbookdata(search) {
   const res = await fetch (
     `https://www.googleapis.com/books/v1/volumes?q=${search}&key=${API_KEY}`
@@ -14,26 +17,22 @@ function searchBooks() {
   getbookdata(searchInput);
 }
 getbookdata();
-const searchForm = document.querySelector('form');
-const searchInput = document.querySelector('input[type="text"]');
-const resultsContainer = document.querySelector('#results');
 
 searchForm.addEventListener('submit', event => {
   event.preventDefault();
 
-  const searchTerm = searchInput.value;
+  const searchbtn = searchInput.value;
 
-  if (searchTerm === '') {
-    alert('Please enter a search term');
+  if (searchbtn === '') {
+    alert('entre your books name');
     return;
   }
 
-  const searchUrl = `${SEARCH_URL}${searchTerm}`;
+  const searchUrl = `${SEARCH_URL}${searchbtn}`;
 
   fetch(searchUrl)
     .then(response => response.text())
     .then(data => {
       console.log(data);
-      // parse the XML data and convert to JSON
-      const parser = new DOMParser();
+      
      
