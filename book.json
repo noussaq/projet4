@@ -1,0 +1,759 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 527,
+    "items": [
+      {
+        "kind": "books#volume",
+        "id": "p1v6DwAAQBAJ",
+        "etag": "BVfkCpauTvg",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/p1v6DwAAQBAJ",
+        "volumeInfo": {
+          "title": "Eloquent JavaScript, 3rd Edition",
+          "subtitle": "A Modern Introduction to Programming",
+          "authors": [
+            "Marijn Haverbeke"
+          ],
+          "publisher": "No Starch Press",
+          "publishedDate": "2018-12-04",
+          "description": "Completely revised and updated, this best-selling introduction to programming in JavaScript focuses on writing real applications. JavaScript lies at the heart of almost every modern web application, from social apps like Twitter to browser-based game frameworks like Phaser and Babylon. Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications. This much anticipated and thoroughly revised third edition of Eloquent JavaScript dives deep into the JavaScript language to show you how to write beautiful, effective code. It has been updated to reflect the current state of Java¬Script and web browsers and includes brand-new material on features like class notation, arrow functions, iterators, async functions, template strings, and block scope. A host of new exercises have also been added to test your skills and keep you on track. As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs. You start by learning the basic structure of the JavaScript language as well as control structures, functions, and data structures to help you write basic programs. Then you'll learn about error handling and bug fixing, modularity, and asynchronous programming before moving on to web browsers and how JavaScript is used to program them. As you build projects such as an artificial life simulation, a simple programming language, and a paint program, you'll learn how to: - Understand the essential elements of programming, including syntax, control, and data - Organize and clarify your code with object-oriented and functional programming techniques - Script the browser and make basic web applications - Use the DOM effectively to interact with browsers - Harness Node.js to build servers and utilities Isn't it time you became fluent in the language of the Web? * All source code is available online in an inter¬active sandbox, where you can edit the code, run it, and see its output instantly.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781593279509"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1593279507"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": false
+          },
+          "pageCount": 474,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "preview-1.0.0",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=p1v6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=p1v6DwAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=1&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=p1v6DwAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Eloquent_JavaScript_3rd_Edition.html?hl=&id=p1v6DwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=p1v6DwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "As with previous editions, Haverbeke continues to teach through extensive examples and immerses you in code from the start, while exercises and full-chapter projects give you hands-on experience with writing your own programs."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nBuA0hmspdMC",
+        "etag": "9Adhlu0QQhM",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nBuA0hmspdMC",
+        "volumeInfo": {
+          "title": "Effective JavaScript",
+          "subtitle": "68 Specific Ways to Harness the Power of JavaScript",
+          "authors": [
+            "David Herman"
+          ],
+          "publisher": "Addison-Wesley",
+          "publishedDate": "2012-11-26",
+          "description": "“It’s uncommon to have a programming language wonk who can speak in such comfortable and friendly language as David does. His walk through the syntax and semantics of JavaScript is both charming and hugely insightful; reminders of gotchas complement realistic use cases, paced at a comfortable curve. You’ll find when you finish the book that you’ve gained a strong and comprehensive sense of mastery.” —Paul Irish, developer advocate, Google Chrome “This is not a book for those looking for shortcuts; rather it is hard-won experience distilled into a guided tour. It’s one of the few books on JS that I’ll recommend without hesitation.” —Alex Russell, TC39 member, software engineer, Google In order to truly master JavaScript, you need to learn how to work effectively with the language’s flexible, expressive features and how to avoid its pitfalls. No matter how long you’ve been writing JavaScript code, Effective JavaScript will help deepen your understanding of this powerful language, so you can build more predictable, reliable, and maintainable programs. Author David Herman, with his years of experience on Ecma’s JavaScript standardization committee, illuminates the language’s inner workings as never before—helping you take full advantage of JavaScript’s expressiveness. Reflecting the latest versions of the JavaScript standard, the book offers well-proven techniques and best practices you’ll rely on for years to come. Effective JavaScript is organized around 68 proven approaches for writing better JavaScript, backed by concrete examples. You’ll learn how to choose the right programming style for each project, manage unanticipated problems, and work more successfully with every facet of JavaScript programming from data structures to concurrency. Key features include Better ways to use prototype-based object-oriented programming Subtleties and solutions for working with arrays and dictionary objects Precise and practical explanations of JavaScript’s functions and variable scoping semantics Useful JavaScript programming patterns and idioms, such as options objects and method chaining In-depth guidance on using JavaScript’s unique “run-to-completion” approach to concurrency",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780132902250"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0132902257"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 240,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.7.6.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nBuA0hmspdMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nBuA0hmspdMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=nBuA0hmspdMC&printsec=frontcover&dq=javascript&hl=&cd=2&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=nBuA0hmspdMC&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Effective_JavaScript.html?hl=&id=nBuA0hmspdMC"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": false
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nBuA0hmspdMC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "You’ll find when you finish the book that you’ve gained a strong and comprehensive sense of mastery.” —Paul Irish, developer advocate, Google Chrome “This is not a book for those looking for shortcuts; rather it is hard-won ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "MhNhBgAAQBAJ",
+        "etag": "PY2jzd+vwi4",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/MhNhBgAAQBAJ",
+        "volumeInfo": {
+          "title": "Coding with JavaScript For Dummies",
+          "authors": [
+            "Chris Minnick",
+            "Eva Holland"
+          ],
+          "publisher": "John Wiley & Sons",
+          "publishedDate": "2015-05-26",
+          "description": "Go from beginner to builder quickly with this hands-on JavaScript guide Coding with JavaScript For Dummies provides easy, hands-on instruction for anyone looking to learn this popular client-side language. No experience? No problem! This friendly guide starts from the very beginning and walks you through the basics, then shows you how to apply what you've learned to real projects. You'll start building right away, including web page elements and simple applications, so you can immediately see how JavaScript is used in the real world. Online exercises allow you to test your code and expand your skills, and the easy-to-follow instruction provides step-by-step guidance toward understanding the JavaScript syntax, applications, and language. JavaScript enhances static web pages by providing dynamic elements that can adapt and react to user action. It's a need-to-know tool for aspiring web designers, but anyone can benefit from understanding this core development language. Coding with JavaScript For Dummies takes you from beginner to builder quickly as you: Learn what JavaScript does, how it works, and where to use it Master the core elements of JavaScript and immediately put it to work Build interactive web elements and try out your code online Create basic applications as you apply JavaScript to the app development workflow Anytime a website responds to your movement around the screen, that's JavaScript. It makes websites more functional, more beautiful, and more engaging, and your site visitors will demand nothing less. If you want to build a better website, you need JavaScript. If you need JavaScript, Coding with JavaScript For Dummies gets you started off quickly and painlessly, with plenty of hands-on practice.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781119056072"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1119056071"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 371,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "2.9.4.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=MhNhBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=MhNhBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=MhNhBgAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=3&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=MhNhBgAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Coding_with_JavaScript_For_Dummies.html?hl=&id=MhNhBgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Coding_with_JavaScript_For_Dummies-sample-pdf.acsm?id=MhNhBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=MhNhBgAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "No experience? No problem! This friendly guide starts from the very beginning and walks you through the basics, then shows you how to apply what you&#39;ve learned to real projects."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "71nDBQAAQBAJ",
+        "etag": "SoBiGqHTRCc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/71nDBQAAQBAJ",
+        "volumeInfo": {
+          "title": "JavaScript for Kids",
+          "subtitle": "A Playful Introduction to Programming",
+          "authors": [
+            "Nick Morgan"
+          ],
+          "publisher": "No Starch Press",
+          "publishedDate": "2014-12-14",
+          "description": "JavaScript is the programming language of the Internet, the secret sauce that makes the Web awesome, your favorite sites interactive, and online games fun! JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations. You’ll begin with the basics, like working with strings, arrays, and loops, and then move on to more advanced topics, like building interactivity with jQuery and drawing graphics with Canvas. Along the way, you’ll write games such as Find the Buried Treasure, Hangman, and Snake. You’ll also learn how to: –Create functions to organize and reuse your code –Write and modify HTML to create dynamic web pages –Use the DOM and jQuery to make your web pages react to user input –Use the Canvas element to draw and animate graphics –Program real user-controlled games with collision detection and score keeping With visual examples like bouncing balls, animated bees, and racing cars, you can really see what you’re programming. Each chapter builds on the last, and programming challenges at the end of each chapter will stretch your brain and inspire your own amazing programs. Make something cool with JavaScript today! Ages 10+ (and their parents!)",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781593274085"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1593274084"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 338,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 3,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "1.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=71nDBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=71nDBQAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=4&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=71nDBQAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_for_Kids.html?hl=&id=71nDBQAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=71nDBQAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "JavaScript for Kids is a lighthearted introduction that teaches programming essentials through patient, step-by-step examples paired with funny illustrations."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "3GOuDwAAQBAJ",
+        "etag": "pXhdTdzojxo",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/3GOuDwAAQBAJ",
+        "volumeInfo": {
+          "title": "Professional JavaScript for Web Developers",
+          "authors": [
+            "Matt Frisbie"
+          ],
+          "publisher": "John Wiley & Sons",
+          "publishedDate": "2019-10-15",
+          "description": "Update your skill set for ES 6 and 7 with the ultimate JavaScript guide for pros Professional JavaScript for Web Developers is the essential guide to next-level JavaScript development. Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer. From JavaScript-specific object-oriented programming and inheritance, to combining JavaScript with HTML and other markup languages, expert instruction walks you through the fundamentals and beyond. This new fourth edition has been updated to cover ECMAScript 6 and 7 (also known as ES2015 and ES2016) and the major re-imagination and departure from ES 5.1; new frameworks and libraries, new techniques, new testing tools, and more are explained in detail for the professional developer, with a practical focus that helps you put your new skills to work on real-world projects. The latest—and most dramatic—ES release is already being incorporated into JavaScript engines in major browsers; this, coupled with the rise in mobile web traffic increasing demand for responsive, dynamic web design, means that all web developers need to update their skills—and this book is your ideal resource for quick, relevant guidance. Get up to date with ECMAScript 6 and 7, new frameworks, and new libraries Delve into web animation, emerging APIs, and build systems Test more effectively with mocks, unit tests, functional tests, and other tools Plan your builds for future ES releases Even if you think you know JavaScript, new ES releases bring big changes that will affect the way you work. For a professional-level update that doesn't waste time on coding fundamentals, Professional JavaScript for Web Developers is the ultimate resource to bring you up to speed.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781119366447"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1119366445"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 1200,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.7.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=3GOuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=3GOuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=3GOuDwAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=5&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=3GOuDwAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Professional_JavaScript_for_Web_Develope.html?hl=&id=3GOuDwAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Professional_JavaScript_for_Web_Develope-sample-pdf.acsm?id=3GOuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=3GOuDwAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Written for intermediate-to-advanced programmers, this book jumps right into the technical details to help you clean up your code and become a more sophisticated JavaScript developer."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "4RChxt67lvwC",
+        "etag": "cKq8lvHEcMc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/4RChxt67lvwC",
+        "volumeInfo": {
+          "title": "JavaScript",
+          "subtitle": "The Definitive Guide",
+          "authors": [
+            "David Flanagan"
+          ],
+          "publisher": "\"O'Reilly Media, Inc.\"",
+          "publishedDate": "2011-04-25",
+          "description": "A revised and updated edition offers comprehensive coverage of ECMAScript 5 (the new JavaScript language standard) and also the new APIs introduced in HTML5, with chapters on functions and classes completely rewritten and updated to match current best practices and a new chapter on language extensions and subsets. Original.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9780596805524"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "0596805527"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 1096,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 2,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "2.7.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=4RChxt67lvwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=4RChxt67lvwC&printsec=frontcover&dq=javascript&hl=&cd=6&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=4RChxt67lvwC&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript.html?hl=&id=4RChxt67lvwC"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=4RChxt67lvwC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This book is a programmer&#39;s guide and comprehensive reference to the core JavaScript language and to the client-side JavaScript APIs defined by web browsers."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "LpctBAAAQBAJ",
+        "etag": "bFce0yiO5XY",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/LpctBAAAQBAJ",
+        "volumeInfo": {
+          "title": "JavaScript and jQuery",
+          "subtitle": "Interactive Front-End Web Development",
+          "authors": [
+            "Jon Duckett"
+          ],
+          "publisher": "John Wiley & Sons",
+          "publishedDate": "2014-06-30",
+          "description": "Expert techniques to make your websites more interactive and engaging In JavaScript and jQuery: Interactive Front-End Development, best-selling author Jon Duckett delivers a fully illustrated guide to making your websites more interactive and your interfaces more interesting and intuitive. In the book, you’ll explore basic programming concepts that assume no prior knowledge of programming beyond an ability to create a web page using HTML & CSS. You’ll use core elements of the JavaScript language so you can learn how to write your own scripts from scratch, as well as jQuery, which will allow you to simplify the process of writing scripts (this is introduced half-way through the book once you have a solid understanding of JavaScript). You’ll also learn to recreate techniques you have seen on other web sites such as sliders, content filters, form validation, Ajax content updates, and much more. Each chapter: Breaks subjects down into bite-sized chunks with a new topic on each page Contains clear descriptions of syntax, each one demonstrated with illustrative code samples Uses diagrams and photography to explain complex concepts in a visual way By the end of the book, not only will you be able to use the thousands of scripts, JavaScript APIs, and jQuery plugins that are freely available on the web – and be able to customize them – you will also be able to create your own scripts from scratch.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781118531648"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1118531647"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 640,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 1,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.9.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=LpctBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=LpctBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=LpctBAAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=7&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=LpctBAAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript_and_jQuery.html?hl=&id=LpctBAAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/JavaScript_and_jQuery-sample-pdf.acsm?id=LpctBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=LpctBAAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "This book will teach you how to make your websites more interactive, engaging, and usable. It does this by combining programming theory with examples that demonstrate how JavaScript and jQuery are used on popular sites."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "nfiRBgAAQBAJ",
+        "etag": "hlt7yMuBcpE",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/nfiRBgAAQBAJ",
+        "volumeInfo": {
+          "title": "Beginning JavaScript",
+          "authors": [
+            "Jeremy McPeak"
+          ],
+          "publisher": "John Wiley & Sons",
+          "publishedDate": "2015-03-09",
+          "description": "The bestselling JavaScript guide, updated with current features and best practices Beginning JavaScript 5th Edition shows you how to work effectively with JavaScript frameworks, functions, and modern browsers, and teaches more effective coding practices using HTML5. This new edition has been extensively updated to reflect the way JavaScript is most commonly used today, introducing you to the latest tools and techniques available to JavaScript developers. Coverage includes modern coding practices using HTML5 markup, the JSON data format, DOM APIs, the jQuery framework, and more. Exercises with solutions provide plenty of opportunity to practice, and the companion website offers downloadable code for all examples given in the book. Learn JavaScript using the most up to date coding style Understand JSON, functions, events, and feature detection Utilize the new HTML5 elements and the related API Explore new features including geolocation, local storage, and more JavaScript has shaped the Web from a passive medium into one that is rich, dynamic, and interactive. No matter the technology on the server side, it's JavaScript that makes it come alive in the browser. To learn JavaScript the way it's used today, Beginning JavaScript, 5th Edition is your concise guide.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781118903339"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1118903331"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 770,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.14.2.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=nfiRBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=nfiRBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=nfiRBgAAQBAJ&printsec=frontcover&dq=javascript&hl=&cd=8&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=nfiRBgAAQBAJ&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Beginning_JavaScript.html?hl=&id=nfiRBgAAQBAJ"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/Beginning_JavaScript-sample-pdf.acsm?id=nfiRBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=nfiRBgAAQBAJ&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "The bestselling JavaScript guide, updated with current features and best practices Beginning JavaScript 5th Edition shows you how to work effectively with JavaScript frameworks, functions, and modern browsers, and teaches more effective ..."
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "o4p6_GSlqMEC",
+        "etag": "7jfHzfep9lw",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/o4p6_GSlqMEC",
+        "volumeInfo": {
+          "title": "JavaScript",
+          "authors": [
+            "Kevin Yank",
+            "Cameron Adams"
+          ],
+          "publisher": "Apogeo Editore",
+          "publishedDate": "2008",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9788850327577"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "8850327579"
+            }
+          ],
+          "readingModes": {
+            "text": false,
+            "image": true
+          },
+          "pageCount": 310,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 5,
+          "ratingsCount": 2,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": false,
+          "contentVersion": "0.1.1.0.preview.1",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=o4p6_GSlqMEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=o4p6_GSlqMEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "it",
+          "previewLink": "http://books.google.com/books?id=o4p6_GSlqMEC&printsec=frontcover&dq=javascript&hl=&cd=9&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=o4p6_GSlqMEC&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/JavaScript.html?hl=&id=o4p6_GSlqMEC"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": false
+          },
+          "pdf": {
+            "isAvailable": true,
+            "acsTokenLink": "http://books.google.com/books/download/JavaScript-sample-pdf.acsm?id=o4p6_GSlqMEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=o4p6_GSlqMEC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        }
+      },
+      {
+        "kind": "books#volume",
+        "id": "9U5I_tskq9MC",
+        "etag": "K/AugGhDiwc",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/9U5I_tskq9MC",
+        "volumeInfo": {
+          "title": "Eloquent JavaScript",
+          "subtitle": "A Modern Introduction to Programming",
+          "authors": [
+            "Marijn Haverbeke"
+          ],
+          "publisher": "No Starch Press",
+          "publishedDate": "2011",
+          "description": "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting.",
+          "industryIdentifiers": [
+            {
+              "type": "ISBN_13",
+              "identifier": "9781593272821"
+            },
+            {
+              "type": "ISBN_10",
+              "identifier": "1593272820"
+            }
+          ],
+          "readingModes": {
+            "text": true,
+            "image": true
+          },
+          "pageCount": 227,
+          "printType": "BOOK",
+          "categories": [
+            "Computers"
+          ],
+          "averageRating": 4,
+          "ratingsCount": 6,
+          "maturityRating": "NOT_MATURE",
+          "allowAnonLogging": true,
+          "contentVersion": "0.2.2.0.preview.3",
+          "panelizationSummary": {
+            "containsEpubBubbles": false,
+            "containsImageBubbles": false
+          },
+          "imageLinks": {
+            "smallThumbnail": "http://books.google.com/books/content?id=9U5I_tskq9MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+            "thumbnail": "http://books.google.com/books/content?id=9U5I_tskq9MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+          },
+          "language": "en",
+          "previewLink": "http://books.google.com/books?id=9U5I_tskq9MC&printsec=frontcover&dq=javascript&hl=&cd=10&source=gbs_api",
+          "infoLink": "http://books.google.com/books?id=9U5I_tskq9MC&dq=javascript&hl=&source=gbs_api",
+          "canonicalVolumeLink": "https://books.google.com/books/about/Eloquent_JavaScript.html?hl=&id=9U5I_tskq9MC"
+        },
+        "saleInfo": {
+          "country": "TN",
+          "saleability": "NOT_FOR_SALE",
+          "isEbook": false
+        },
+        "accessInfo": {
+          "country": "TN",
+          "viewability": "PARTIAL",
+          "embeddable": true,
+          "publicDomain": false,
+          "textToSpeechPermission": "ALLOWED",
+          "epub": {
+            "isAvailable": true
+          },
+          "pdf": {
+            "isAvailable": true
+          },
+          "webReaderLink": "http://play.google.com/books/reader?id=9U5I_tskq9MC&hl=&source=gbs_api",
+          "accessViewStatus": "SAMPLE",
+          "quoteSharingAllowed": false
+        },
+        "searchInfo": {
+          "textSnippet": "Provides information and examples on writing JavaScript code, covering such topics as syntax, control, data, regular expressions, and scripting."
+        }
+      }
+    ]
+  }
