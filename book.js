@@ -28,19 +28,11 @@ searchForm.addEventListener('submit', event => {
     return;
   }
 
-  const searchUrl = `${SEARCH_URL}${searchbtn}`;
+  const searchUrl = `${API_KEY}${searchbtn}`;
 
   fetch(searchUrl)
     .then(response => response.text())
     .then(data => {
       console.log(data);
-      
-    searchBtn.addEventListener('click', () => {
-  searchBooks();
-});
-const searchForm = document.querySelector('form');
-searchForm.addEventListener('submit', event => {
-  event.preventDefault();
-  searchBooks();
-});
+searchBtn.addEventListener('click', searchBooks);
      
