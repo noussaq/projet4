@@ -35,4 +35,12 @@ searchForm.addEventListener('submit', event => {
     .then(data => {
       console.log(data);
       
+    searchBtn.addEventListener('click', () => {
+  searchBooks();
+});
+const searchForm = document.querySelector('form');
+searchForm.addEventListener('submit', event => {
+  event.preventDefault();
+  searchBooks();
+});
      
